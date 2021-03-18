@@ -21,3 +21,6 @@ La administración
 
 5.Pregunta 5
 Si se logra o no el objetivo
+
+6. Pregunta 6
+Debido a la agilidad y confiabilidad que este genera a la hora de manejar y obtener datos
